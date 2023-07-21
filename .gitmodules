@@ -1,0 +1,3 @@
+[submodule "fronted-react-native-iot"]
+	path = fronted-react-native-iot
+	url = https://github.com/diegoperea20/fronted-react-native-iot.git
